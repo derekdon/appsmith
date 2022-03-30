@@ -1,0 +1,20 @@
+{
+  "isPublic": false,
+  "viewMode": false,
+  "appIsExample": false,
+  "unreadCommentThreads": 0,
+  "color": "#EAEDFB",
+  "slug": "my-first-application",
+  "unpublishedAppLayout": {
+    "type": "MOBILE"
+  },
+  "publishedAppLayout": {
+    "type": "MOBILE"
+  },
+  "evaluationVersion": 2,
+  "createdAt": {
+    "seconds": 1648655853,
+    "nanos": 704000000
+  },
+  "deleted": false
+}
